@@ -7,7 +7,7 @@
 <html>
 	<head>
 		<title>Sysfoo Demo App</title>
-		<meta charset="utf-7" />
+		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
